@@ -1,0 +1,22 @@
+{
+  "GAMESTATE" : 1,
+  "Players" : {
+    "player1" : {
+      "distance" : 0,
+      "name" : "wsnfldlm,e"
+    },
+    "player2" : {
+      "distance" : 2850,
+      "name" : "fenklfn,df"
+    },
+    "player3" : {
+      "distance" : 3390,
+      "name" : " enf,em "
+    },
+    "player4" : {
+      "distance" : 0,
+      "name" : "e mf,e fm,"
+    }
+  },
+  "player_count" : 4
+}
